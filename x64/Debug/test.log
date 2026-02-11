@@ -1,0 +1,3 @@
+﻿  AssaultCube.cpp
+C:\Users\I87k\source\repos\test\test\AssaultCube.cpp(58,33): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  test.vcxproj -> C:\Users\I87k\source\repos\test\x64\Debug\test.exe
